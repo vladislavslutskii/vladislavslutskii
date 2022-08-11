@@ -1,5 +1,6 @@
 
 <div id="header" align="center">
+  <img src="https://giphy.com/gifs/pudgypenguins-happy-developer-dev-TALQlzlQssoEvvUuNq" width="100"/>
   <p> 👋 Hi, I'm Vladislav </p>
   <p> 📖 I'm currently studying frontend developer </p>
   <p> 📪 Do you want to contact me? My mail. - vladislavcoc2@gmail.com </p>
