@@ -1,6 +1,9 @@
-### 👋 Hi, I'm Vladislav
-### 📖 I'm currently studying frontend developer 
-### 📪 Do you want to contact me? My mail. - vladislavcoc2@gmail.com
+
+<div id="header" align="center">
+  ### 👋 Hi, I'm Vladislav
+  ### 📖 I'm currently studying frontend developer 
+  ### 📪 Do you want to contact me? My mail. - vladislavcoc2@gmail.com
+</div>
 
 <!--
 **vladislavslutskii/vladislavslutskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
