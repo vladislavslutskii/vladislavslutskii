@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/TALQlzlQssoEvvUuNq/giphy.gif" width="300px" height="200px"/>
   <p> 👋 Hi, I'm Vladislav </p>
   <p> 📖 I'm Junior FrontEnd Developer </p>
-  <p> ⚡ My WebSite: https://vladislavslutskii.github.io/diplomaproject/ <p>
+  <p> ⚡ My WebSite: https://vladislavslutskii.github.io/siteresume-react/ <p>
   <p> 📪 Do you want to contact me? My mail. - vladislavcoc2@gmail.com </p>
 </div>
 <div id="badges" align="center">
